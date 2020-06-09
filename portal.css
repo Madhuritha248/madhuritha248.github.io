@@ -1,0 +1,72 @@
+a
+{
+  color: blue;
+  text-decoration: none;
+}
+a:hover
+{
+  color: indigo;
+  text-decoration: none;
+}
+body
+{
+  background-color: lavender;
+  color:darkmagenta;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size:20;
+}
+footer
+{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+h1
+{
+  margin-top: 0.5rem;
+  margin-bottom: 3rem;
+  color: purple;
+}
+h2
+{
+  color: navy;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+h3
+{
+  margin-top: 0;
+  margin-bottom: 2rem;
+}
+h4
+{
+  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+  color: indigo;
+}
+
+h5
+{
+  margin-top: 0.5rem;
+  color: darkmagenta;
+  
+}
+p
+{
+  color: darkmagenta;
+  
+}
+
+hr
+{
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+}
+ul
+{
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+  font-size: 20;
+  color: darkmagenta;
+}
